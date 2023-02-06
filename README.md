@@ -9,7 +9,7 @@ Files:
 
 1.Prétraitement_du_Texte_PT.ipynb is the first Jupyter Notebook containing my work.
 
-Corona_NLP_test.csv is the first data used.
+*Corona_NLP_test.csv* is the first data used.
     
 2.Classification_texte_CT.ipynb is the second Jupyter Notebook containing my work.
 
