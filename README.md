@@ -13,4 +13,4 @@ Files:
     
 2.Classification_texte_CT.ipynb is the second Jupyter Notebook containing my work.
 
-covid19_tweets.csv is the second data used (The second dataset is downloadable from the address: https://www.kaggle.com/datatattle/covid-19-nlp-text-classification       published on 08/09/2020, to perform text classification on the data)
+'covid19_tweets.csv' is the second data used (The second dataset is downloadable from the address: https://www.kaggle.com/datatattle/covid-19-nlp-text-classification       published on 08/09/2020, to perform text classification on the data)
